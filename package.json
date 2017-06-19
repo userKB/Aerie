@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "portfolio_app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userKB/kb23.git"
+  },
+  "keywords": [
+    "web",
+    "developer",
+    "graphic",
+    "design",
+    "portfolio",
+    "app"
+  ],
+  "author": "Kenneth Kirui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/userKB/kb23/issues"
+  },
+  "homepage": "https://github.com/userKB/kb23#readme"
+}
